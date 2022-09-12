@@ -1,6 +1,6 @@
 // perform the left rotation of array otwo time..
 // It means if a = {1,2,3,4,5}
-// then after performing one time left rotation array will become a = {2,3,4,5,1}
+// then after performing one time left rotation array will become a = {3,4,5,1,2}
 
 #include <stdio.h>
 
