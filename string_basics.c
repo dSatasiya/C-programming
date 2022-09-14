@@ -18,5 +18,16 @@ int main()
     // gets(name3);
     // puts(name3);
     // printf("\nYes we have received one string from the user...\n");
+    
+    
+    // To print the single character from the string...
+    char name[10] = "Dhruv";
+    int i;
+    for(i=0; i<5; i++)
+    {
+        printf("%c\n", name[i]); // Remember we have to write %c as a placeholder not %s
+    }
+    
+    
     return 0;
 }
