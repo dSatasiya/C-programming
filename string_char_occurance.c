@@ -6,7 +6,7 @@
 int main() 
 {
     char name[20], ch;
-    int i,j = 0, cnt = 0, k = 0, len;
+    int i, cnt = 0, k = 0, len;
     printf("Enter the name : ");
     gets(name);
     printf("Enter the character : ");
@@ -24,7 +24,8 @@ int main()
                 }
             }
         printf("%c is occurred %d times ..\n", name[k], cnt);
-        cnt = 0, j++;
+        break;
+        // cnt = 0;
         }
         k++;
     }
