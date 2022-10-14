@@ -1,4 +1,4 @@
-// WAP to find whether the size of two arrays are equale or not.
+// WAP to find smallest and largest number in the array.
 
 #include <stdio.h>
 
