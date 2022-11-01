@@ -36,7 +36,7 @@ int main()
                 cnt = cnt+1;
                 while(cnt==size)
                 {
-                    printf("%d is the smallest number in the array", a[i]);
+                    printf("%d is the largest number in the array", a[i]);
                     break;
                 }
                 continue;
