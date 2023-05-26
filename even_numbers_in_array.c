@@ -15,7 +15,7 @@ int main()
         printf("Enter the %dth element : ", i);
         scanf("%d", &a[i]);
     }
-    even(a, n);
+    even(a, n);   // Function Definition.. 
     return 0;
 }
 
