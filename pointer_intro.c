@@ -16,7 +16,7 @@ int main()
 	//printf("The address of pointer is : %p\n", &ptr);
 	//printf("a has value : %d\n", *ptr);
 	
-	/*int sumByPointer = 0;
+	int sumByPointer = 0;
 	int sumByVariable = 0;
 	sumByPointer = *ptrToa + *ptrTob;
 	sumByVariable = a + b;
