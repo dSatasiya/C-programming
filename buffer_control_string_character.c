@@ -3,8 +3,8 @@
 //#pragma warning (disable : 4669)
 
 #define STRLEN 100  // it is always a good practice to keep the size of the as maximum as possible,
-					// because if we do not do so and enter the stirng bigger than the array size then
-					// then it will not give or store anything in then array. 
+		    // because if we do not do so and enter the stirng bigger than the array size then
+		    // then it will not give or store anything in then array. 
 
 int main()
 {
