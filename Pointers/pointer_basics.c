@@ -8,7 +8,7 @@ int main()
 
     // printf("%d", *p);
 
-    // Home work problem ....
+    // Homework problem ....
 
     int i = 1;
     int *p = &i;
