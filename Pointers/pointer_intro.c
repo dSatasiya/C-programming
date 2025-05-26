@@ -2,6 +2,25 @@
 
 int main()
 {
+	 // int a = 10;
+	// int *p;
+	// p = &a;
+	
+	// printf("%d", *p);
+	
+	// Homework problem ....
+	
+	int i = 1;
+	int *p = &i;
+	// int q, p;
+	// q = p;
+	int *q = 5;
+	printf("%d\n", i);
+	printf("%d\n", &i);
+	printf("%d\n", *p);
+	printf("%d\n", p);
+	// printf("%d", *p);
+/*********************************************************/
 	int a = 10;
 	int* ptrToa;
 	ptrToa = &a;
@@ -22,8 +41,6 @@ int main()
 	sumByVariable = a + b;
 	printf("sum by pointer is = %d\n", sumByPointer);
 	printf("sum by variable is = %d\n", sumByVariable);
-
-
-
+	
 	return 0;
 }
